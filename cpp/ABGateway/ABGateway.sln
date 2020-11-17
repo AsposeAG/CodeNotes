@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ABGateway", "ABGateway\ABGateway.vcxproj", "{F337709E-AC93-4472-8074-6791A6DE5608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Debug|x64.ActiveCfg = Debug|x64
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Debug|x64.Build.0 = Debug|x64
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Debug|x86.ActiveCfg = Debug|Win32
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Debug|x86.Build.0 = Debug|Win32
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Release|x64.ActiveCfg = Release|x64
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Release|x64.Build.0 = Release|x64
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Release|x86.ActiveCfg = Release|Win32
+		{F337709E-AC93-4472-8074-6791A6DE5608}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C8BDF4-1927-4C83-BF97-5B4E7DE816C3}
+	EndGlobalSection
+EndGlobal
